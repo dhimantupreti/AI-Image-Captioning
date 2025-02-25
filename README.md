@@ -1,2 +1,2 @@
 # AI-Image-Captioning
-BILP from hugging face, Gradio for UI.
+BLIP from hugging face, Gradio for UI.
