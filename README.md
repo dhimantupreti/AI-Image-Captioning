@@ -1,2 +1,2 @@
 # AI-Image-Captioning
-HF transformers, BLIP Model from Hugging Face, Gradio for UI.
+HF Transformers, BLIP Model from Hugging Face, Gradio for UI.
